@@ -1,6 +1,6 @@
 [rpi]
 
-rpi1 ansible_ssh_host=10.0.0.17 ansible_ssh_user=root ansible_ssh_private_key_file=~/.ssh/rpi
-rpi2 ansible_ssh_host=10.0.0.101 ansible_ssh_user=root ansible_ssh_private_key_file=~/.ssh/rpi
-rpi3 ansible_ssh_host=10.0.0.105 ansible_ssh_user=root ansible_ssh_private_key_file=~/.ssh/rpi
-rpi4 ansible_ssh_host=10.0.0.135 ansible_ssh_user=root ansible_ssh_private_key_file=~/.ssh/rpi
+rpi1 ansible_ssh_host=[ ] ansible_ssh_user=root ansible_ssh_private_key_file=~/.ssh/rpi
+rpi2 ansible_ssh_host=[ ] ansible_ssh_user=root ansible_ssh_private_key_file=~/.ssh/rpi
+rpi3 ansible_ssh_host=[ ] ansible_ssh_user=root ansible_ssh_private_key_file=~/.ssh/rpi
+rpi4 ansible_ssh_host=[ ] ansible_ssh_user=root ansible_ssh_private_key_file=~/.ssh/rpi
